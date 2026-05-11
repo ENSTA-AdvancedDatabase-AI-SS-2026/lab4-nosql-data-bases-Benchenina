@@ -5,7 +5,6 @@
 > **Module :** Bases de Données Avancées | **Chapitre :** 4 — NoSQL Databases | **Niveau :** Master / Licence 3
 
 
-hello world!!
 ---
 ## 🎯 Objectifs du Chapitre
 
